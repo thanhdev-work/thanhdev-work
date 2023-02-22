@@ -49,7 +49,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/thanhpdhe141032/thanhpdhe141032/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/thanhpdhe141032/thanhpdhe141032/output/snake.svg" alt="Snake animation" />
 
 ###
 
