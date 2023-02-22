@@ -47,6 +47,12 @@
 
 ###
 
+###
+
+<img src="https://raw.githubusercontent.com/thanhpdhe141032/thanhpdhe141032/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h3 align="center">🙂Contact Me!!🙂</h3>
 
 ###
