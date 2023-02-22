@@ -48,9 +48,9 @@
 ###
 
 ###
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/thanhpdhe141032/thanhpdhe141032/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
 
 <h2 align="center">🙂Contact Me!!🙂</h2>
