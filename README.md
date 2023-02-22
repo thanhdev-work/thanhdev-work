@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">Tech Stack 😎</h3>
+<h2 align="center">Tech Stack 😎</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="center">My Github Stats 🤓</h3>
+<h2 align="center">My Github Stats 🤓</h2>
 
 ###
 
@@ -53,9 +53,11 @@
 
 ###
 
-<h3 align="center">🙂Contact Me!!🙂</h3>
+<h2 align="center">🙂Contact Me!!🙂</h2>
 
 ###
+
+<img src="https://raw.githubusercontent.com/thanhpdhe141032/thanhpdhe141032/blob/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
