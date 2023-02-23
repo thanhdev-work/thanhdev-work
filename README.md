@@ -8,7 +8,8 @@
 
 ###
 
-<p align="left">Dummy about me!!!</p>
+<p align="center">Hello, Thanh here, I'm a software engineer from Ha Long. I am a person who loves technology and loves to express myself, to experience, to learn new things around me. People know me as a kind, sociable, easy-going guy and especially I love to cook.
+I thought you are the best in this world!!!</p>
 
 ###
 
