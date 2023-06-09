@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="281" src="assets/background.gif"  alt=""/>
+  <img height="281" src="assets/bug-vs-dev.gif"  alt=""/>
 </div>
 
 ###
