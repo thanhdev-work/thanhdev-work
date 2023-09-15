@@ -8,8 +8,7 @@
 
 ###
 
-<p align="center">Hello, Thanh here, I'm a software engineer from Ha Long. I am a person who loves technology and loves to express myself, to experience, to learn new things around me. People know me as a kind, sociable, easy-going guy and especially I love to cook.
-I thought you are the best in this world!!!</p>
+<p align="center">With experience in software development, especially in the field of Web Applications, good logical thinking, problem solving skills, I believe in myself that I can become a good engineer to contribute more and more. create better products. values ​​for business</p>
 
 ###
 
