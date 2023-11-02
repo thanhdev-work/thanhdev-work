@@ -56,7 +56,7 @@
 
 
 <div align="center">
-   <a href="www.linkedin.com/in/thành-đặng-b6bb92249" target="_blank">
+   <a href="https://www.linkedin.com/in/thanhdangdev1410/" target="_blank">
        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
        </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
